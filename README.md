@@ -4,11 +4,17 @@
 
 another minecraft kid
 
-done java for ~1 year now
-
-i also run a home server i guess
-
 cannot write useful commit messages (impossible)
+
+## what i use:
+
+<img align="left" width="70px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" />
+<img align="left" width="70px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" />
+<img align="left" width="70px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg" />
+
+<br />
+
+(looking into other languages, but school :shrug:)
 
 ## funny stat page that everyone uses
 
