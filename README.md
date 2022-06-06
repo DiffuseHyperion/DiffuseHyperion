@@ -6,7 +6,9 @@ another minecraft kid
 
 done java for ~1 year now
 
-still cannot write useful commit messages (impossible)
+i also run a home server i guess
+
+cannot write useful commit messages (impossible)
 
 ## funny stat page that everyone uses
 
