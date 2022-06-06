@@ -12,9 +12,9 @@ cannot write useful commit messages (impossible)
 <img align="left" width="70px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" />
 <img align="left" width="70px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg" />
 
-<br />
-
+<br>
 (looking into other languages, but school :shrug:)
+
 
 ## funny stat page that everyone uses
 
