@@ -15,6 +15,10 @@ I like developing various projects to fufill niche stuff
 - **Java**
   - Javadactyl (WIP) 
 
+- **Websites**
+  - map-pinger / https://status.diffusehyperion.me
+  - https://www.diffusehyperion.me
+
 - **Docker**
   - Eaglercraft (archived)
   - EaglercraftX
