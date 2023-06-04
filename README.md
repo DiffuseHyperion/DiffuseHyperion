@@ -8,9 +8,12 @@ I like developing various projects to fufill niche stuff
 
 ## My work so far:
 - **Minecraft**
-  - LavaRising
-  - GameMaster
-  - DeathSwap
+  - _Bukkit_
+    - LavaRising
+    - GameMaster
+    - DeathSwap
+  - _Fabric_
+    - InertiaAntiCheat
 
 - **Java**
   - Javadactyl (WIP) 
